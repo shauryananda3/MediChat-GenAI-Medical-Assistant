@@ -41,7 +41,6 @@ Client → Flask/FastAPI → PyMongo → MongoDB
 
 ## 📂 Project Structure
 
-```text
 MongoDB-API/
 ├── app.py
 ├── requirements.txt
